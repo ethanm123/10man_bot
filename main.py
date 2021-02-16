@@ -1,4 +1,4 @@
-
+#test
 
 import discord
 import asyncio
@@ -47,4 +47,3 @@ class Bot(discord.Client):
 
 client = Bot()
 client.run("YOUR TOKEN HERE")
-
